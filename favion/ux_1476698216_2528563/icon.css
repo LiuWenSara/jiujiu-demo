@@ -1,0 +1,12 @@
+.icon1{
+  font-size:50px;
+  margin:0;
+  -webkit-transition: font-size 0.25s ease-out 0s;
+  -moz-transition: font-size 0.25s ease-out 0s;
+  transition: font-size 0.25s ease-out 0s;
+  color:#FDD59C;
+}
+.icon2{
+	font-size:20px;
+	color:white;
+}
